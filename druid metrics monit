@@ -1,0 +1,4 @@
+一、Druid 监控
+1、基于Druid扩展statsd-emitter + Telegraf + Influxdb 实现
+2、基于Logstash + Influxdb 实现Druid原生明细指标数据收集,存储
+
